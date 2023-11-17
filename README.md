@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Selajdin
 - 👀 I’m interested in programming languages
-- 🌱 I’m currently learning React and TypeScript
+- 🌱 I’m currently working with React and TypeScript
 - 💞️ I’m looking to collaborate on challenging coding projects.
 - 📫 How to reach me?  Here is my LinkedIn profile: https://www.linkedin.com/in/selajdin-memeti-1b62ab218/
 
